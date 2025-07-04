@@ -6,7 +6,7 @@ import Joker from './Joker.jsx';
 function App() {
   return (
     <>
-      {/* <Counter/> */}
+      <Counter/>
       <Joker/>
     </>
   )
